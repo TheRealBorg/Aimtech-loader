@@ -27,12 +27,12 @@
 * VAC trusted dll bypass
 
 # Media
-* launcher
-![loader1](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/loader1.png)
 
-* Loader
-![loader2](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/loader2.png)
+![Launcher](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/loader.png)
 
+![Loader](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/Launcher.png)
+
+![Notification](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/Notification.png)
 
 
 
