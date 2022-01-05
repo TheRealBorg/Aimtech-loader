@@ -23,7 +23,7 @@
 
 # Comming soon
 * Change hwid check from hardcode to database
-* Hide dll Either locally or using server
+* Hide dll either locally or using server
 * VAC trusted dll bypass
 
 # Media
