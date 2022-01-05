@@ -28,11 +28,9 @@
 
 # Media
 
-![Launcher](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/loader.png)
+![Launcher](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/Launcher.png)
 
-![Loader](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/Launcher.png)
-
-![Notification](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/Notification.png)
+![Loader](https://raw.githubusercontent.com/TheRealBorg/Aimtech-loader/main/loader.png)
 
 
 
