@@ -1,4 +1,5 @@
 # Aimtech-loader
+* This project is for educational purposes only
 * This is an old project that I started a long time ago, thats why I'm making this public 
 * This CSGO loader is created for friends and family use.
 * No p2c features like login, server stored dll, dll security etc..
